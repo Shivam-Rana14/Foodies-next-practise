@@ -7,9 +7,7 @@ export default function Home() {
         Time to get started!
       </h1>
       <p>
-        <Link class="nbvd" href="/meals">
-          Meals
-        </Link>
+        <Link href="/meals">Meals</Link>
       </p>
     </main>
   );
